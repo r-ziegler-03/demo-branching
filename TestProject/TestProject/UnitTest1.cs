@@ -11,6 +11,7 @@ public class UnitTest1
     [Fact]
     public void Test2()
     {
+        //this was bad
         Assert.False(false);
         Assert.Empty("");
     }

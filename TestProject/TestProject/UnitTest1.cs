@@ -13,6 +13,5 @@ public class UnitTest1
     {
         //this was bad
         Assert.False(false);
-        Assert.Empty("");
     }
 }

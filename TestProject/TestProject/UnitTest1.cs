@@ -6,6 +6,7 @@ public class UnitTest1
     public void Test1()
     {
         Assert.True(true);
+        Assert.True(true);
     }
     
     [Fact]
@@ -13,5 +14,6 @@ public class UnitTest1
     {
         //this was bad
         Assert.False(false);
+        //or not
     }
 }

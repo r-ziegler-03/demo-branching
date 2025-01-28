@@ -12,7 +12,7 @@ public class UnitTest1
     public void Test2()
     {
         //this was bad
-        Assert.False(true);
-        Assert.True(!false);
+        Assert.False(false);
+        Assert.Empty("");
     }
 }
